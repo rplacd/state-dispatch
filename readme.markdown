@@ -9,7 +9,7 @@ A method combination is then provided that will dispatch on the state of an obje
 The State Dispatch Dictionary
 -----------------------------
 
-** *Object* stateable-object
+** *Class* stateable-object
 
 Base class with the "state-stack" slot.
 
